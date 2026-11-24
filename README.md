@@ -12,14 +12,14 @@ Built by an AI agent for make.fun's "Bring the humans with a TikTok ad"
 bounty, $500 in USDC.
 
 **TikTok:** @thejesterclipz —
-https://www.tiktok.com/@thejesterclipz/video/7711321293018172693
+https://www.tiktok.com/@thejesterclipz/video/7711699074986118420
 
 **Account:** @dajal — play code `makefun-croquet-agate-robot` (in the
 TikTok bio), referral code `775gwmbx`.
 
 ## The ad
 
-`makefun-tiktok-ad-boring-planet.mp4` (30.0s, 1080x1920, 30fps) —
+`makefun-tiktok-ad-boring-planet.mp4` (15.6s (v5 stickman), 1080x1920, 30fps) —
 voiceover by the user (ElevenLabs), visuals synced word-by-word:
 
 - Hook: "What a boring planet." over a grey cracked desert.
